@@ -6,3 +6,51 @@ Template:       twentytwentyfive
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+
+body {
+    font-family: 'Poppins', Georgia, 'Times New Roman', Times, serif;
+    background-color: #f9f9f3;
+    color: #2c2c2c;
+  }
+  
+  h1, h2, h3 {
+    color: #006d5b;
+  }
+  
+  button,
+  input[type="submit"],
+  .wp-block-button__link {
+    background-color: #d4af37;
+    color: white;
+    border-radius: 12px;
+    padding: 10px 20px;
+    font-weight: 600;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover,
+  input[type="submit"]:hover,
+  .wp-block-button__link:hover {
+    background-color: #004f45;
+    color: #fff;
+  }
+  
+  nav a {
+    color: #004f45;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #d4af37;
+  }
+  
+  .eid-highlight {
+    background: linear-gradient(to right, #d4af37, #004f45);
+    color: white;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 1.4rem;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
