@@ -2,7 +2,42 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/eid-traditions-around-the-world/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/2-what-to-wear-for-eid-modest-fashion-inspiration/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/3-eid-gift-guide-unique-ideas-for-everyone/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/4-preparing-your-home-for-eid-decor-tips-diy/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/eid-recipes-to-try-this-year/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/again/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact-us/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/blogs/
         </loc>
     </url>
     <url>
@@ -12,17 +47,37 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/products/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/hi/
+            http://localhost:8000/products/sample-product-page/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/again/
+            http://localhost:8000/products/eid-mubarak-lantern/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/modest-eid-dresses-for-women/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/eid-gift-box-set/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/eid-themed-prayer-mat/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/eid-mubarak-wall-art/
         </loc>
     </url>
     <url>
